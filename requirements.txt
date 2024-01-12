@@ -3,5 +3,3 @@ torchaudio==2.1.2
 torchvision==0.16.2
 transformers==4.36.2
 streamlit==1.29.0
-torch==2.1.2  
-streamlit==1.29.0
